@@ -11,6 +11,7 @@ it contain:<br>
 2- i3-gaps config<br>
 3- comptop (for transparency windows)<br>
 and some packages that i need like:<br>
+vim and its config<br>
 cmus<br>
 ranger<br>
 and etc<br>
